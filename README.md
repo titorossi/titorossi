@@ -8,6 +8,8 @@ I have some miniprojects in mind, including videogames.
 
 ### I'm looking forward to making this readme actually interesting to read!
 
+Haha life gets in the way sometimes. Brb.
+
 <!--
 **titorossi/titorossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
